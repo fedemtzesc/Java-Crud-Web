@@ -3,6 +3,7 @@
 <!-- AQUI ME QUEDE
 	https://www.youtube.com/watch?v=IeCk01t5olo&list=PL3vxkSlW2FvWzjf0NdxcivmyhrW6CdxhB&index=31
 	https://www.youtube.com/watch?v=l2MdKm5RN3o&list=PL3vxkSlW2FvWzjf0NdxcivmyhrW6CdxhB&index=34
+	https://www.youtube.com/watch?v=l2MdKm5RN3o&list=PL3vxkSlW2FvWzjf0NdxcivmyhrW6CdxhB&index=34
  -->
 <!DOCTYPE html>
 <html>
